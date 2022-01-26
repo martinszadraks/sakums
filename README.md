@@ -1,1 +1,2 @@
 # sakums
+mans pirmais repozitorijs
